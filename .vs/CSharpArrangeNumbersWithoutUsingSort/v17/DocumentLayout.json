@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Junaid\\source\\repos\\CSharpArrangeNumbersWithoutUsingSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{655B4135-6574-4157-8C48-473E997B0DFB}|CSharpArrangeNumbersWithoutUsingSort\\CSharpArrangeNumbersWithoutUsingSort.csproj|c:\\users\\junaid\\source\\repos\\csharparrangenumberswithoutusingsort\\csharparrangenumberswithoutusingsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655B4135-6574-4157-8C48-473E997B0DFB}|CSharpArrangeNumbersWithoutUsingSort\\CSharpArrangeNumbersWithoutUsingSort.csproj|solutionrelative:csharparrangenumberswithoutusingsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Junaid\\source\\repos\\CSharpArrangeNumbersWithoutUsingSort\\CSharpArrangeNumbersWithoutUsingSort\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpArrangeNumbersWithoutUsingSort\\Program.cs",
+              "ToolTip": "C:\\Users\\Junaid\\source\\repos\\CSharpArrangeNumbersWithoutUsingSort\\CSharpArrangeNumbersWithoutUsingSort\\Program.cs",
+              "RelativeToolTip": "CSharpArrangeNumbersWithoutUsingSort\\Program.cs",
+              "ViewState": "AQIAAAAAAABoZmZmZmYkwAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:44:14.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
